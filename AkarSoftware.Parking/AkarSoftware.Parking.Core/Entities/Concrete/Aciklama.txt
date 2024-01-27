@@ -1,0 +1,5 @@
+﻿Tüm projelerde ortak kullanmak istediğiniz bazı entityler varsa burada tanımlanabilir. 
+
+Bu proje için böyle bir durum söz konusu olmasa dahi ilgli klasörleme yapılmış olup 
+
+mimariye uyarlanmıştır. 

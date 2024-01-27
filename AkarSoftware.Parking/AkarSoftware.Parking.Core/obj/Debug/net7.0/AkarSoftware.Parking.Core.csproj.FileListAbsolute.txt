@@ -1,0 +1,37 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Core\bin\Debug\net7.0\AkarSoftware.Parking.Core.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Core\bin\Debug\net7.0\AkarSoftware.Parking.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Core\bin\Debug\net7.0\AkarSoftware.Parking.Core.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\refint\AkarSoftware.Parking.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\ref\AkarSoftware.Parking.Core.dll
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\bin\Debug\net7.0\AkarSoftware.Parking.Core.deps.json
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\bin\Debug\net7.0\AkarSoftware.Parking.Core.dll
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\bin\Debug\net7.0\AkarSoftware.Parking.Core.pdb
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.csproj.AssemblyReference.cache
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.AssemblyInfoInputs.cache
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.AssemblyInfo.cs
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.csproj.CoreCompileInputs.cache
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.sourcelink.json
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.dll
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\refint\AkarSoftware.Parking.Core.dll
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.pdb
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\ref\AkarSoftware.Parking.Core.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\bin\Debug\net7.0\AkarSoftware.Parking.Core.deps.json
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\bin\Debug\net7.0\AkarSoftware.Parking.Core.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\bin\Debug\net7.0\AkarSoftware.Parking.Core.pdb
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.csproj.AssemblyReference.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.AssemblyInfoInputs.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.AssemblyInfo.cs
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.csproj.CoreCompileInputs.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\refint\AkarSoftware.Parking.Core.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\AkarSoftware.Parking.Core.pdb
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Core\obj\Debug\net7.0\ref\AkarSoftware.Parking.Core.dll

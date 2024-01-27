@@ -1,0 +1,46 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Dtos.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Dtos.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Dtos.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Core.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.csproj.CopyComplete
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\refint\AkarSoftware.Parking.Dtos.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\ref\AkarSoftware.Parking.Dtos.dll
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Dtos.deps.json
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Dtos.dll
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Dtos.pdb
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Core.dll
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Core.pdb
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.csproj.AssemblyReference.cache
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.AssemblyInfoInputs.cache
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.AssemblyInfo.cs
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.csproj.CoreCompileInputs.cache
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.sourcelink.json
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.csproj.CopyComplete
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.dll
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\refint\AkarSoftware.Parking.Dtos.dll
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.pdb
+D:\Github\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\ref\AkarSoftware.Parking.Dtos.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Dtos.deps.json
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Dtos.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Dtos.pdb
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Core.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\bin\Debug\net7.0\AkarSoftware.Parking.Core.pdb
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.csproj.AssemblyReference.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.AssemblyInfoInputs.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.AssemblyInfo.cs
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.csproj.CopyComplete
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\refint\AkarSoftware.Parking.Dtos.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\AkarSoftware.Parking.Dtos.pdb
+C:\Users\hrsdi\OneDrive\Masaüstü\parkkk\ParkingProjectWithNetCore\AkarSoftware.Parking\AkarSoftware.Parking.Dtos\obj\Debug\net7.0\ref\AkarSoftware.Parking.Dtos.dll

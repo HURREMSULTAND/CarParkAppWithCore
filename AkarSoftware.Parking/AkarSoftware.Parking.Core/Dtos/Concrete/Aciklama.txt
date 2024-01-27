@@ -1,0 +1,5 @@
+﻿Eğerki Tüm projelerde kullanılacak olan Entityler Core Layer altında Entitties Klasöründe kodlandıysa
+
+Bunlara burada Dto Yazabilirsijniz. Biz bu projede yapmayacağız ama ihtyiaç duyulması halinde 
+
+ilgili klasörleme yapılmıştır

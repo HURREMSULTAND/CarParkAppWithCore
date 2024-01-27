@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkarSoftware.Parking.Core", "AkarSoftware.Parking.Core\AkarSoftware.Parking.Core.csproj", "{8E5AE14C-44AB-4011-831C-7BBE8E82D4DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkarSoftware.Parking.Entities", "AkarSoftware.Parking.Entities\AkarSoftware.Parking.Entities.csproj", "{11069DBE-4EC9-4E16-9FC4-BAC0A56AC808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkarSoftware.Parking.Dtos", "AkarSoftware.Parking.Dtos\AkarSoftware.Parking.Dtos.csproj", "{34ABEF81-A8FD-4A2C-85B7-F54981C29685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkarSoftware.Parking.DataAccess", "AkarSoftware.Parking.DataAccess\AkarSoftware.Parking.DataAccess.csproj", "{CCA3648E-AD96-4216-B034-1D96261C8358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkarSoftware.Parking.Business", "AkarSoftware.Parking.Business\AkarSoftware.Parking.Business.csproj", "{B889BF47-5026-47C1-933C-78B301AF78E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkarSoftware.Parking.MVC", "AkarSoftware.Parking.MVC\AkarSoftware.Parking.MVC.csproj", "{9BD0C055-5604-4433-A1DA-551B749EEDB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E5AE14C-44AB-4011-831C-7BBE8E82D4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5AE14C-44AB-4011-831C-7BBE8E82D4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5AE14C-44AB-4011-831C-7BBE8E82D4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5AE14C-44AB-4011-831C-7BBE8E82D4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11069DBE-4EC9-4E16-9FC4-BAC0A56AC808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11069DBE-4EC9-4E16-9FC4-BAC0A56AC808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11069DBE-4EC9-4E16-9FC4-BAC0A56AC808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11069DBE-4EC9-4E16-9FC4-BAC0A56AC808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34ABEF81-A8FD-4A2C-85B7-F54981C29685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34ABEF81-A8FD-4A2C-85B7-F54981C29685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34ABEF81-A8FD-4A2C-85B7-F54981C29685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34ABEF81-A8FD-4A2C-85B7-F54981C29685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA3648E-AD96-4216-B034-1D96261C8358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA3648E-AD96-4216-B034-1D96261C8358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA3648E-AD96-4216-B034-1D96261C8358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA3648E-AD96-4216-B034-1D96261C8358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B889BF47-5026-47C1-933C-78B301AF78E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B889BF47-5026-47C1-933C-78B301AF78E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B889BF47-5026-47C1-933C-78B301AF78E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B889BF47-5026-47C1-933C-78B301AF78E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD0C055-5604-4433-A1DA-551B749EEDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD0C055-5604-4433-A1DA-551B749EEDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD0C055-5604-4433-A1DA-551B749EEDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD0C055-5604-4433-A1DA-551B749EEDB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6B18822-3216-42F5-9016-72A3AC3026C3}
+	EndGlobalSection
+EndGlobal

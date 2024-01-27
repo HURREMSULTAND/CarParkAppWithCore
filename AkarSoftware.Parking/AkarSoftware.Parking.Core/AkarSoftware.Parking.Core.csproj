@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Extentions\Controller\" />
+    <Folder Include="Extentions\ViewComponent\" />
+    <Folder Include="Utilities\Results\CostumeResult\" />
+  </ItemGroup>
+
+</Project>
